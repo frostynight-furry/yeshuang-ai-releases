@@ -42,7 +42,7 @@ Get-FileHash .\YeshuangAI-Android-0.1.23.apk -Algorithm SHA256
 
 ## 在 FurryUP 系列中的定位
 
-在 **FurryUP** 整体产品矩阵中，各条产品线围绕 **「创作者工具采用 → 跨端粉丝陪伴与关系积累 → 按意愿自然转化」** 分工协作。**夜霜 AI** 的核心定位是：
+在 **FurryUP** 整体产品矩阵中，各条产品线围绕 **「主播端创作工作台 → 跨端角色桌宠陪伴 → 实时联动与粉丝互动」** 分工协同。**夜霜 AI** 的核心定位是：
 
 > **FurryUP 系列 › FurryUP Studio 联动产品 › 夜霜桌宠 › 夜霜 AI（安卓粉丝端）**
 > —— **承接非直播时段的手机端离线角色伙伴与粉丝关系枢纽，同时也是 FurryUP 端侧 AI 与 Live2D 桌宠技术底座的官方第一方样板。**
@@ -68,7 +68,7 @@ Get-FileHash .\YeshuangAI-Android-0.1.23.apk -Algorithm SHA256
    验证了 **APK 与签名语气包（`.ysp`）分离热更新**、**429 MB 本地 GGUF 模型跨版本零流量复用**、**JNI 原生层 GGUF LoRA 适配器动态热挂载** 以及 **高刷屏幕固定物理步长插值 + 休息静帧省电** 等核心能力。
 
 <p align="center">
-  <img src="assets/furryup-architecture.png" width="820" alt="FurryUP 产品与商业架构总图：展示夜霜 AI 在 FurryUP 系列中的位置与联动关系">
+  <img src="assets/furryup-architecture.png" width="820" alt="FurryUP 公开产品架构与夜霜 AI 定位：展示夜霜 AI 在 FurryUP 系列中的位置与联动关系">
 </p>
 
 ---
